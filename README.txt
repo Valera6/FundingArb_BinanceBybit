@@ -1,3 +1,5 @@
+#Ignore Backtesting folder and modules starting with ____
+
 Websocket streams for all tickers listed on Bybit and Binance perps
 fetching funding rate from the response
 dumping into according json files
