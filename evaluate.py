@@ -1,0 +1,1 @@
+# /fapi/v1/commissionRate (HMAC SHA256) gets user commission rate
