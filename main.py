@@ -1,0 +1,1 @@
+# parses rates.json, makes decisions
